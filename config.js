@@ -6,7 +6,7 @@ const CONFIG = {
     profile: {
         name: "Alessio D'aleo",
         bio: "Full-Stack Marketer",
-        image: "Assets/Ad_static_image.jpg" // Replace with your image URL
+        image: "Ad_static_image.jpg" // Replace with your image URL
     },
 
     // Social Media Links
@@ -45,3 +45,4 @@ const CONFIG = {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = CONFIG;
 }
+
