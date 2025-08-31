@@ -9,7 +9,7 @@ const CONFIG = {
         image: "Ad_static_image.jpg" // Replace with your image URL
     },
 
-    // Social Media Links
+    // Buttons
     links: [
         {
             title: "Latest Projects",
@@ -45,4 +45,5 @@ const CONFIG = {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = CONFIG;
 }
+
 
