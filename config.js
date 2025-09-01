@@ -4,7 +4,7 @@
 const CONFIG = {
     // Profile Information
     profile: {
-        name: "I'm Alessio 👋🏻",
+        name: "Hi! I'm Alessio 👋🏻",
         bio: "Full-Stack Marketer",
         image: "Ad_static_image.jpg" // Replace with your image URL
     },
@@ -45,6 +45,7 @@ const CONFIG = {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = CONFIG;
 }
+
 
 
 
