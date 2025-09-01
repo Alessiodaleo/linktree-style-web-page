@@ -13,7 +13,7 @@ const CONFIG = {
     links: [
         {
             title: "Latest Projects",
-            url: "https://alessiodaleo.xyz",
+            url: "https://portfolio.alessiodaleo.xyz",
             icon: "fas fa-globe",
             isPrimary: true
         },
@@ -45,5 +45,6 @@ const CONFIG = {
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = CONFIG;
 }
+
 
 
